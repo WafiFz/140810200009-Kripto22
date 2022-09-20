@@ -5,4 +5,4 @@ Praktikum Kripto 2022
 Menggunakan bahasa python
 
 SS Program:
-<img src="Tugas2_009_Wafi/009_Wafi_SS_Hasil-Program" alt="SS">
+<img src="Tugas2_009_Wafi/009_Wafi_SS_Hasil-Program.png" alt="SS">
