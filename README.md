@@ -1,7 +1,8 @@
 # 140810200009-Kripto22
 Praktikum Kripto 2022
 
-##Tugas 2
+## Tugas 2
+
 Menggunakan bahasa python
 
 SS Program:
