@@ -13,6 +13,6 @@ SS Program:
 Hill Cipher - Menggunakan bahasa python
 
 SS Program:
-<img src="Tugas3_009_Wafi/ss-enkripsi-hill.png" alt="SS" height="350">
-<img src="Tugas3_009_Wafi/ss-dekripsi-hill.png" alt="SS" height="350">
-<img src="Tugas3_009_Wafi/ss-cari-key-hill.png" alt="SS" height="350">
+<img src="Hill-Cipher/ss-enkripsi-hill.png" alt="SS" height="350">
+<img src="Hill-Cipher/ss-dekripsi-hill.png" alt="SS" height="350">
+<img src="Hill-Cipher/ss-cari-key-hill.png" alt="SS" height="350">
